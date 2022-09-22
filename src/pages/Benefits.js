@@ -7,7 +7,7 @@ export const Benefits = () => (
 
             <div class="main-container">
                 <p class="paragraph">
-                    Meditation has been around for thousands of years. Science is now starting to realize the many benefits meditation brings the practicer. Here are a few:
+                    Meditation has been around for thousands of years. Science is now starting to realize the many benefits of meditation. Here are a few:
 
                     <br></br>
                     <br></br>
