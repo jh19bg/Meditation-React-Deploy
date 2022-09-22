@@ -13,16 +13,16 @@ export default function App() {
       <Navbar />
       <div className="App-container">
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/Meditation-React-Deploy/">
             <Home />
           </Route>
-          <Route path="/benefits">
+          <Route path="/Meditation-React-Deploy/benefits">
             <Benefits />
           </Route>
-          <Route path="/videos">
+          <Route path="/Meditation-React-Deploy/videos">
             <Videos />
           </Route>
-          <Route path="/links">
+          <Route path="/Meditation-React-Deploy/links">
             <Links />
           </Route>
         </Switch>
