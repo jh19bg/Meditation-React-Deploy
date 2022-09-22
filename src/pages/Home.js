@@ -42,7 +42,7 @@ export const Home = () => (
 
             <div class='main-container'>
                 <p class='paragraph'>
-                    Take a look at benefits page for more info, and the videos page to try a few guided meditations!
+                    Please see the benefits page for further information, and visit the videos page to try a few guided meditations!
                 </p>
             </div>
     </div>
