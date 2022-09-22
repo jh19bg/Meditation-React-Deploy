@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/%E2%80%9Chttp://jh19bg.github.io/Meditation-React-Deploy/static/css/main.d408b54a.css",
-    "main.js": "/%E2%80%9Chttp://jh19bg.github.io/Meditation-React-Deploy/static/js/main.1e575514.js",
+    "main.js": "/%E2%80%9Chttp://jh19bg.github.io/Meditation-React-Deploy/static/js/main.ed795238.js",
     "static/js/787.bf6be429.chunk.js": "/%E2%80%9Chttp://jh19bg.github.io/Meditation-React-Deploy/static/js/787.bf6be429.chunk.js",
     "static/media/med.webp": "/%E2%80%9Chttp://jh19bg.github.io/Meditation-React-Deploy/static/media/med.403297f14552ffef8807.webp",
     "index.html": "/%E2%80%9Chttp://jh19bg.github.io/Meditation-React-Deploy/index.html",
     "main.d408b54a.css.map": "/%E2%80%9Chttp://jh19bg.github.io/Meditation-React-Deploy/static/css/main.d408b54a.css.map",
-    "main.1e575514.js.map": "/%E2%80%9Chttp://jh19bg.github.io/Meditation-React-Deploy/static/js/main.1e575514.js.map",
+    "main.ed795238.js.map": "/%E2%80%9Chttp://jh19bg.github.io/Meditation-React-Deploy/static/js/main.ed795238.js.map",
     "787.bf6be429.chunk.js.map": "/%E2%80%9Chttp://jh19bg.github.io/Meditation-React-Deploy/static/js/787.bf6be429.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d408b54a.css",
-    "static/js/main.1e575514.js"
+    "static/js/main.ed795238.js"
   ]
 }
