@@ -30,14 +30,14 @@ export const Navbar = () => {
             <NavLink 
             className="navbar-item" 
             activeClassName="is-chosen"
-            to="/">
+            to="/Meditation-React-Deploy/">
               Home
             </NavLink> 
   
             <NavLink
               className="navbar-item"
               activeClassName="is-active"
-              to="/benefits"
+              to="/Meditation-React-Deploy/benefits"
             >
               Benefits
             </NavLink>
@@ -45,7 +45,7 @@ export const Navbar = () => {
             <NavLink
               className="navbar-item"
               activeClassName="is-active"
-              to="/videos"
+              to="/Meditation-React-Deploy/videos"
             >
               Videos
             </NavLink>
@@ -53,7 +53,7 @@ export const Navbar = () => {
             <NavLink
               className="navbar-item"
               activeClassName="is-active"
-              to="/links"
+              to="/Meditation-React-Deploy/links"
             >
               Links
             </NavLink>
