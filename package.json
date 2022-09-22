@@ -1,6 +1,7 @@
 {
   "name": "about-me",
-  "version": "0.1.0",
+  "version": "0.1.0",  
+  "homepage": "“http://jh19bg.github.io/Meditation-React-Deploy",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -41,6 +42,5 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
-  },
-  "homepage": "“http://jh19bg.github.io/Meditation-React-Deploy"
+  }
 }
