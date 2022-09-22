@@ -1,0 +1,20 @@
+.paragraph {
+    width: 95%;
+    height: 100%;
+  }
+
+  .home-component {
+    margin-left: 13%;
+  }
+
+  .main-container {
+    width: 35%;
+  }
+
+  .quote-container {
+    background-color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size:large;
+    width: 35%;
+    padding: 10px;
+  }
