@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Meditation-React-Deploy/static/css/main.715761b5.css",
-    "main.js": "/Meditation-React-Deploy/static/js/main.5248e914.js",
+    "main.js": "/Meditation-React-Deploy/static/js/main.e8cca741.js",
     "static/js/787.bf6be429.chunk.js": "/Meditation-React-Deploy/static/js/787.bf6be429.chunk.js",
     "static/media/med.webp": "/Meditation-React-Deploy/static/media/med.403297f14552ffef8807.webp",
     "index.html": "/Meditation-React-Deploy/index.html",
     "main.715761b5.css.map": "/Meditation-React-Deploy/static/css/main.715761b5.css.map",
-    "main.5248e914.js.map": "/Meditation-React-Deploy/static/js/main.5248e914.js.map",
+    "main.e8cca741.js.map": "/Meditation-React-Deploy/static/js/main.e8cca741.js.map",
     "787.bf6be429.chunk.js.map": "/Meditation-React-Deploy/static/js/787.bf6be429.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.715761b5.css",
-    "static/js/main.5248e914.js"
+    "static/js/main.e8cca741.js"
   ]
 }
